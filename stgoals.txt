@@ -1,0 +1,7 @@
+1. understanding of verb types
+2. POS tagging of given doument
+3. find pos errors and correct them  (submit the corrected file, with applied code)
+4. find the common verbs across the domains 
+5. give detailed analysis of those verb usage 
+6. also give list of verbs with are specific to that domain and analysis of those 
+7. search more on web on related topic and compare the findings  
