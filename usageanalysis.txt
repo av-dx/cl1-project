@@ -39,3 +39,26 @@ AI : how that is being processed [CALCULATED]
     They are not processed [CALCULATED]
 FMFS : food constituents are processed by using heat [CHANGED]
     preserved food have already been partially processed [CHANGED]
+
+Verb : finding
+AI : So the cost of finding the solution itself and the path to the solution itself (GERUND) [DESIGN]
+	 the older best node will continue it like finding on the maximum number (GERUND) [FIND]
+FMFS : According to new finding it has been revealed that even the most susceptable food like ham, pepperoni sandwiches, can be prepared using chemicals (GERUND) [FIND]
+	 Above mentioned findings paved the path of success (GERUND) [FIND]
+	 he history of food safety is actually the history of various finding (GERUND) [FIND]
+
+Verb : affect
+AI : there are many factors which affect outcomes which I’ve discussed (TRANSITIVE) [INFLUENCE]
+FMFS : how external or environmental factors affect microbial growth and survival in diverse food environment (TRANSITIVE) [INFLUENCE]
+		Microbial antagonism among species in the food may affect the actual number of viable microbes (TRANSITIVE) [INFLUENCE]
+
+Verb : reducing
+AI :   He was interested in reducing the amount of memory to be used. (TRANSITIVE) [DECREASE - SIZE]
+FMFS : MacConkey agar is used as a selective medium which includes a bile salt reducing the growth of non-intestinal lactose fermenting bacterial cells. (TRANSITIVE) [DECREASE - RATE]
+	   development of reducing substances through micorbial cell metabolism (ADJECTIVE) [GAIN - ELECTRONS]
+	   During bacterial metabolism, removal of dissolved oxygen from milk takes place and the reducing substances formed are responsible for the color change. (ADJECTIVE) [GAIN - ELECTRONS]
+
+Verb : taking
+AI : Now chess playing robot is playing something and take a silliest move but the opponent tops the program by taking a sillier move and lost. (TRANSITIVE, LIGH VERB) [PLAY - HIS TURN IN CHESS]
+	 So these are all examples of sensors which are taking some inputs, generating some outputs and also processing using AI. (TRANSITIVE) [USE/REQUIRE]
+FMFS : The microbial load in food can be minimized by taking certain steps (TRANSITIVE, LIGHT VERB) [DOING SOMETHING]
