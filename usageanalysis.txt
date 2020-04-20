@@ -1,0 +1,41 @@
+Verb: eliminate
+AI : be able to eliminate the paths [IGNORE]
+FMFS : boil to eliminate remaining microorganisms [KILL]
+
+Verb: collected
+AI : total is basically collected from all ants [CALCULATE]
+FMFS : signature from whom sample have been collected [GATHER]
+    samples are collected to its primary state [GATHER]
+    sample might have to be collected from large size containers [GATHER]
+    sample must be collected from previously un-opened retail packages [GATHER]
+
+Verb: lose
+AI : we do not lose important information [LOSE]
+    they do not lose data [LOSE]
+FMFS : food with a high water activity lose moisture [LOSE]
+    Dyes reduced and lose its color [LOSE]
+    milk pasteurized with HTST method may lose 1/3rd of the thiamine [LOSE]
+
+Verb: cooling
+AI : the process of cooling down has a serious impact [COOL]
+FMFS : milk passes through heating and cooling stages [COOL]
+    definite time and subsequent rapid cooling [COOL]
+
+Verb:  preserve
+AI : best node is explored but second best is preserved [SAVE - IN MEMORY]
+    It won’t preserve all other nodes [SAVE - IN MEMORY]
+FMFS : Ionizing radiation to preserve hamburger meat by Proctor [SAVE - PHYSICALLY]
+    In order to preserve reliability [SAVE - ABSTRACT]
+    techniques to preserve the seasonal food [SAVE - PHYSICALLY]
+    process to preserve the freshness of food [SAVE - PHYSICALLY]
+    excess food may also be preserved for later use [SAVE - PHYSICALLY]
+
+Verb: attached
+AI : rationality is attached to agents working [CONNECTED]
+FMFS : sample code number along with the signature of authorized officer, shall be attached upon the wrapper [PRINTED]
+
+Verb: processed
+AI : how that is being processed [CALCULATED]
+    They are not processed [CALCULATED]
+FMFS : food constituents are processed by using heat [CHANGED]
+    preserved food have already been partially processed [CHANGED]

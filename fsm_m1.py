@@ -18,7 +18,7 @@ import nltk.tokenize as tk
 # fsm_m1.close()
 
 
-with open('FMFS_Module_1_Verified_Post_Verbatim_TScript.txt', mode='r') as f:
+with open('data/FMFS_Module_1_Verified_Post_Verbatim_TScript.txt', mode='r') as f:
 	for i in range(3):            # for ignoring the forst three lines (details about the module)
 		f.readline()
 
