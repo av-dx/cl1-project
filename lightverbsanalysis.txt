@@ -1,0 +1,36 @@
+	
+	Light Verbs
+
+These are the verbs with little semantic content and become a predicate when joined with nouns,pronouns,. etc. 
+	Examples: have,take,do..etc
+
+[VERB -- CONTEXTUAL MEANING | TYPE OF VERB | TENSE | NUMBER | WORD ADDED TO THE VERB IN THE SENTENCE TO MAKE A PREDICATE](If present)
+
+1) Light Verb : HAVE(plural)
+
+	a) These water bodies may have pathogenic bacteria [have -- contain | Present | pathogenic bacteria]
+	b) All microorganisms have a defined temperature range in which they grow. [have -- possess a characteristic | defined temp. range]
+	c) Rapid-automated methods could have greater impact on manufacturing economics in terms of savings. [have -- result | greater 			impact]
+	d) Sterile containers of appropriate sizes for sampling of the product have to be used. [have -- under obligation/required ]
+	e) We have assumed that eight, zero, zero is the beginning this thing a move. [have -- Auxiliary verb for Present Perfect]
+
+2) Light Verb : DO
+
+	a) They do not grow at this temperature but do grow at temperatures falls in the mesophilic range. [do -- Aux.V | Present | Plural 		| grow/not grow]
+	b) It does not engage in physical dissociation of antibody bound antigen from free antigen molecules. [does -- Aux.V | Present | 		Singular]
+	c) They did not allow the bacteria to grow by maintaining high temperatures. [did -- Aux.V | Past | Plural | allow ]
+
+3) Light Verb : MAKE
+
+	a) Adequate measures should be taken to make food safe for the consumers as well as to prevent food spoilage. [make -- to convert | 	food]
+	b) The produce may be made soil or dirt free by means. [made -- to do | PAST | Plural | soil free]
+	c) Pick up the start node and make it current. [make -- change it to | present | Singular | it(start node)]
+	d) A patent for making condensed milk granted to Newton. [making -- to invent/bring something into existence | Present | condensed 		milk]
+
+4) Light Verb : GIVE
+
+	a) Sir Howard Florey gave some examples of interference back to Pasteur and Joubert in 1877 . [gave -- PAST | to impart | some ex.]
+	b) We will pick up the node which gives us steepest ascent. [gives -- Simple Present | Singular | produces | us]
+	c) In most cases, heuristic function will not give you exact value. [give -- Present | produce | you]
+	d) Using different neighborhood functions will let you determine number of children for a given state. [given -- specified | PAST 		PARTICIPLE | singular | state]
+
