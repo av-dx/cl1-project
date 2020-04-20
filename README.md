@@ -17,7 +17,7 @@
   <li><b>fsm_m1.py</b> -              <i>code to tag the module 1 of FMFS</i></li>
   <li><b>lightverbsanalysis.txt</b> - <i>analysis of light verbs in the text</i></li>
   <li><b>Isverbs.py</b> -             <i>progam to tag the words in the files and get the verbs</i></li>
-  <li><b>postagger.py</b> -           <i>gates and tags all the tokens by using nltk</i></li>
+  <li><b>postagger.py</b> -           <i>gets and tags all the tokens by using nltk</i></li>
   <li><b>scraping.py</b> -            <i>get the data from a news website</i></li>
   <li><b>stgoals.txt</b> -            <i>goals of the project</i></li>
   <li><b>usageanalysis.txt</b> -      <i>analysing some common verbs from both the given domains (Akshett and Aashwin)</i></li>
