@@ -1,0 +1,3 @@
+have - t
+learn - t
+given - d
