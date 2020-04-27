@@ -27,5 +27,6 @@
   <li><b>scraping.py</b> -            <i>get the data from a news website</i></li>
   <li><b>stgoals.txt</b> -            <i>goals of the project</i></li>
   <li><b>usageanalysis.txt</b> -      <i>analysing some common verbs from both the given domains (Akshett and Aashwin)</i></li>
-  <li><b>verbanalysis.txt</b> -       <i>analysing some common verbs from both the given domains (Akhilesh)</i></li>
+   <li><b>verbanalysis.txt</b> -      <i>analysing some common verbs from both the given domains (Akhilesh)</i></li>
+   <li> <b>wrongposanalysis.txt</b> - <i>analysis of the tokens that got tagged wrongly by NLTK </i> </li>
 </ul>
