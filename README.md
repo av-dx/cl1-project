@@ -7,7 +7,13 @@
   <li><b>Aravapalli Akhilesh</b> - <i>(2019114016)</i></li>
 </ul>
 
-# File Structure
+### Technologies Used
+<ul>
+  <li> <b>NLTK</b> : <i>For POS tagging of some of the data - https://www.nltk.org/</i> </li>
+  <li> <b>TreeTagger</b> : <i>For POS tagging of the data - https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/</i> </li>
+</ul>
+
+### File Structure
 <ul>
   <li><b>data</b> -                   <i>contains the given data</i></li>
   <li><b>postagged</b> -              <i>contains the output of nltk POS tagger and then the manually corrected tags</i></li>
@@ -21,5 +27,6 @@
   <li><b>scraping.py</b> -            <i>get the data from a news website</i></li>
   <li><b>stgoals.txt</b> -            <i>goals of the project</i></li>
   <li><b>usageanalysis.txt</b> -      <i>analysing some common verbs from both the given domains (Akshett and Aashwin)</i></li>
-  <li><b>verbanalysis.txt</b> -       <i>analysing some common verbs from both the given domains (Akhilesh)</i></li>
+   <li><b>verbanalysis.txt</b> -      <i>analysing some common verbs from both the given domains (Akhilesh)</i></li>
+   <li> <b>wrongposanalysis.txt</b> - <i>analysis of the tokens that got tagged wrongly by NLTK </i> </li>
 </ul>

@@ -1,0 +1,35 @@
+Analysis of Errors by Automatic POS tagging:
+
+	Some of the most common tags which were not correctly tagged by the automatic tagger we used [NLTK]
+
+	1. UH -- interjections were not correctly identified by the tagger.
+		a) Hello Everyone -- tagged as NNP
+		b) Okay , it is a kind of a dead end -- tagged as NN
+		c) Sorry , I was wrong -- tagged as NN
+
+	2. CD -- numbers were not tagged as CD
+		a) That means that it is ten -- tagges as VBN
+		b) The value is between minus ten and  ten -- tagged as VB
+		c) I have already told you that ten is the solution -- tagged as VBP
+
+	3. NN -- nouns were tagges as adjectives
+		a) IIIT-H have created the first-ever brain atlas -- tagged as JJ
+		b) She thanked him and sought blessings for her married life -- tagged as JJ
+		c) Word spread and their neighbour Vimal Chatopadhyaya heard of the Khans -- tagged as JJ
+
+	4. VB -- words which should be tagged as VB were tagged wrong 
+		a) The differnce in scans can lead to alarming and lead to misdiagnosis -- tagges as JJ
+		b) There was no corresponding template for India-specific population -- tagged as JJ
+		c) He has a bottle of acid used for cleaning ornaments -- tagged as NN
+
+	5. VBG -- tagged differently from VBG
+		a) They used traditional methods for preseving food like cooking, baking and smoking. --- All three were tagged as NN
+		b) U.S patent for preseving food in tin cans granted -- tagged as IN
+		c) Food is not always considered safe for human beings -- tagged as JJ
+		d) Minimize the risk of food poisoning and to make food safe for eating -- tagged as NN
+
+	6. IN -- tagged wrongly
+		a) Chemical and biological agent which can minimize the risk of food poisoning  -- tagged as NN
+		b) this makes food safe for drinking and eating -- tagged as JJ
+		c) These programs are preventive in nature and are implemented by experienced professionals. -- tagged as VBN
+
