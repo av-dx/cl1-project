@@ -7,7 +7,13 @@
   <li><b>Aravapalli Akhilesh</b> - <i>(2019114016)</i></li>
 </ul>
 
-# File Structure
+### Technologies Used
+<ul>
+  <li> <b>NLTK</b> : <i>For POS tagging of some of the data - https://www.nltk.org/</i> </li>
+  <li> <b>TreeTagger</b> : <i>For POS tagging of the data - https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/</i> </li>
+</ul>
+
+### File Structure
 <ul>
   <li><b>data</b> -                   <i>contains the given data</i></li>
   <li><b>postagged</b> -              <i>contains the output of nltk POS tagger and then the manually corrected tags</i></li>
